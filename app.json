@@ -8,7 +8,7 @@
         "compressor",
         "bot"
     ],
-    "repository": "https://github.com/Bot7dunia/VIDEOconvertor-V1",
+    "repository": "https://github.com/Bot7dunia/VIDEOconvertor",
     "website": "",
     "success_url": "https://t.me/DroneBots",
     "env": {
